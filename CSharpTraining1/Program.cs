@@ -14,6 +14,9 @@ namespace CSharpTraining1
 
             GuidDemo guidDemo = new GuidDemo();
             guidDemo.Run();
+
+            YieldDemo yieldDemo = new YieldDemo();
+            yieldDemo.Run();
         }
     }
 }
