@@ -1,0 +1,13 @@
+D:\C# Projects\CSharpTraining1\CSharpTraining1\bin\Debug\netcoreapp3.1\CSharpTraining1.exe
+D:\C# Projects\CSharpTraining1\CSharpTraining1\bin\Debug\netcoreapp3.1\CSharpTraining1.deps.json
+D:\C# Projects\CSharpTraining1\CSharpTraining1\bin\Debug\netcoreapp3.1\CSharpTraining1.runtimeconfig.json
+D:\C# Projects\CSharpTraining1\CSharpTraining1\bin\Debug\netcoreapp3.1\CSharpTraining1.runtimeconfig.dev.json
+D:\C# Projects\CSharpTraining1\CSharpTraining1\bin\Debug\netcoreapp3.1\CSharpTraining1.dll
+D:\C# Projects\CSharpTraining1\CSharpTraining1\bin\Debug\netcoreapp3.1\CSharpTraining1.pdb
+D:\C# Projects\CSharpTraining1\CSharpTraining1\obj\Debug\netcoreapp3.1\CSharpTraining1.csprojAssemblyReference.cache
+D:\C# Projects\CSharpTraining1\CSharpTraining1\obj\Debug\netcoreapp3.1\CSharpTraining1.AssemblyInfoInputs.cache
+D:\C# Projects\CSharpTraining1\CSharpTraining1\obj\Debug\netcoreapp3.1\CSharpTraining1.AssemblyInfo.cs
+D:\C# Projects\CSharpTraining1\CSharpTraining1\obj\Debug\netcoreapp3.1\CSharpTraining1.csproj.CoreCompileInputs.cache
+D:\C# Projects\CSharpTraining1\CSharpTraining1\obj\Debug\netcoreapp3.1\CSharpTraining1.dll
+D:\C# Projects\CSharpTraining1\CSharpTraining1\obj\Debug\netcoreapp3.1\CSharpTraining1.pdb
+D:\C# Projects\CSharpTraining1\CSharpTraining1\obj\Debug\netcoreapp3.1\CSharpTraining1.genruntimeconfig.cache
