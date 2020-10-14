@@ -8,6 +8,9 @@ namespace CSharpTraining1
         {
             TuplesDemo tuplesDemo = new TuplesDemo();
             tuplesDemo.Run();
+
+            DelegateDemo delegateDemo = new DelegateDemo();
+            delegateDemo.Run();
         }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# Projects\\CSharpTraining1\\CSharpTraining1\\CSharpTraining1.csproj": {}
+    "D:\\C# Projects\\CSharp_Training\\CSharpTraining1\\CSharpTraining1.csproj": {}
   },
   "projects": {
-    "D:\\C# Projects\\CSharpTraining1\\CSharpTraining1\\CSharpTraining1.csproj": {
+    "D:\\C# Projects\\CSharp_Training\\CSharpTraining1\\CSharpTraining1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Projects\\CSharpTraining1\\CSharpTraining1\\CSharpTraining1.csproj",
+        "projectUniqueName": "D:\\C# Projects\\CSharp_Training\\CSharpTraining1\\CSharpTraining1.csproj",
         "projectName": "CSharpTraining1",
-        "projectPath": "D:\\C# Projects\\CSharpTraining1\\CSharpTraining1\\CSharpTraining1.csproj",
+        "projectPath": "D:\\C# Projects\\CSharp_Training\\CSharpTraining1\\CSharpTraining1.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Projects\\CSharpTraining1\\CSharpTraining1\\obj\\",
+        "outputPath": "D:\\C# Projects\\CSharp_Training\\CSharpTraining1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\"
