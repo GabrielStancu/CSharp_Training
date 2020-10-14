@@ -11,6 +11,9 @@ namespace CSharpTraining1
 
             DelegateDemo delegateDemo = new DelegateDemo();
             delegateDemo.Run();
+
+            GuidDemo guidDemo = new GuidDemo();
+            guidDemo.Run();
         }
     }
 }
